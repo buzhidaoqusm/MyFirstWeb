@@ -112,7 +112,7 @@ const beforeTo = ()=>{
 }
 
 .button-group {
-    justify-content: space-between; // 在容器内平均分配空间，将按钮推向容器两端
+    justify-content: space-between; 
     width: 100%; 
 }
 
